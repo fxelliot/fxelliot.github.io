@@ -557,3 +557,6 @@ The `percentile` is the percentage of features that we'd like to select based on
 **This article is for Demo purpose**
 
 The article was originally on [this repo](https://github.com/risan/risanb.com/blob/master/content/posts/python-notes-from-intro-to-machine-learning/index.md)
+
+>I hope you had as much fun reading this write up as I did writing it. If this writeup helped you, please feel free to go to my [`Hack The Box profile (fxsociety)`](https://app.hackthebox.com/users/1504363) and give me a respect 😁. Happy Hacking!!👾
+{: .prompt-tip }
